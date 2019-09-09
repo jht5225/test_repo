@@ -1,3 +1,3 @@
 Jack Taylor
 Whitman College Math
-bbb
+trying to make merge conflict
