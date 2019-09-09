@@ -1,3 +1,3 @@
 Jack Taylor
 Whitman College Math
-bbb
+this is how we make one
